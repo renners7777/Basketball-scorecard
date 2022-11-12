@@ -1,9 +1,10 @@
 body {
     margin: 0;
     text-align: center;
+    background-image: url("pexels-daniel-absi-680074 (1).jpg");
 }
 
-.score {
+#home-score, #away-score {
     background: #0a0001;
     font-size: 90px;
     color: #F94F6D;
