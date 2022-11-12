@@ -2,6 +2,7 @@ body {
     margin: 0;
     text-align: center;
     background-image: url("pexels-daniel-absi-680074 (1).jpg");
+    font-family: 'Lato', sans-serif;
 }
 
 #home-score, #away-score {
@@ -10,6 +11,7 @@ body {
     color: #F94F6D;
     width: 120px;
     margin: 20px;
+    border: solid yellow 3px;
 }
 
 .container {
